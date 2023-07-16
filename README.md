@@ -36,7 +36,11 @@ Clone this repository and install the required Python packages using pip:
 ```bash
 git clone https://github.com/HFScripts/gitcrawler.git
 cd gitcrawler
+pip install -r requirements.txt
 ```
+
+Outside of that you will need to make sure you have nmap
+sudo apt-get install nmap
 
 ## Usage
 ```python3 gitcrawler.py```
