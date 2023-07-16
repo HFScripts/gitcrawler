@@ -1,6 +1,6 @@
 # GitHub Crawler
 
-This is a Python script that crawls GitHub repositories, validates and verifies them based on certain criteria, extracts all URLs from the crawled websites, and checks for the existence of Git repositories on the servers of these URLs. 
+This is a Python script that crawls websites in search of GitHub repositories, Once it validates and verifies them based on certain criteria, extracts all URLs from the crawled websites, and checks for the existence of Git repositories on the servers of these newly extracted URLs. 
 
 ## Table of Contents
 
