@@ -39,4 +39,4 @@ cd gitcrawler
 ```
 
 ## Usage
-```python3 script_name.py```
+```python3 gitcrawler.py```
